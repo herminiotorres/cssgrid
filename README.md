@@ -20,3 +20,5 @@ $ npm start
 ## List of Exercises
 
 * [01-StarterFilesandToolingSetup](https://herminiotorres.github.io/cssgrid/01-StarterFilesandToolingSetup/finish.html)
+* [02-CSSGridFundamentals](https://herminiotorres.github.io/cssgrid/02-CSSGridFundamentals/finish.html)
+* [03-CSSGridDevTools](https://herminiotorres.github.io/cssgrid/03-CSSGridDevTools/finish.html)
