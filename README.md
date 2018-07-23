@@ -23,3 +23,4 @@ $ npm start
 * [02-CSSGridFundamentals](https://herminiotorres.github.io/cssgrid/02-CSSGridFundamentals/finish.html)
 * [03-CSSGridDevTools](https://herminiotorres.github.io/cssgrid/03-CSSGridDevTools/finish.html)
 * [04-CSSGridImplicitvsExplicitTracks](https://herminiotorres.github.io/cssgrid/04-CSSGridImplicitvsExplicitTracks/finish.html)
+* [05-CSSgrid-auto-flowExplained](https://herminiotorres.github.io/cssgrid/05-CSSgrid-auto-flowExplained/finish.html)
