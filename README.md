@@ -25,3 +25,4 @@ $ npm start
 * [05-CSSgrid-auto-flowExplained](https://herminiotorres.github.io/cssgrid/05-CSSgrid-auto-flowExplained/finish.html)
 * [06-SizingtracksinCSSGrid](https://herminiotorres.github.io/cssgrid/06-SizingtracksinCSSGrid/finish.html)
 * [07-CSSGridrepeatfunction](https://herminiotorres.github.io/cssgrid/07-CSSGridrepeatfunction/finish.html)
+* [08-SizingGridItems](https://herminiotorres.github.io/cssgrid/08-SizingGridItems/finish.html)
