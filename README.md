@@ -26,3 +26,4 @@ $ npm start
 * [06-SizingtracksinCSSGrid](https://herminiotorres.github.io/cssgrid/06-SizingtracksinCSSGrid/finish.html)
 * [07-CSSGridrepeatfunction](https://herminiotorres.github.io/cssgrid/07-CSSGridrepeatfunction/finish.html)
 * [08-SizingGridItems](https://herminiotorres.github.io/cssgrid/08-SizingGridItems/finish.html)
+* [09-PlacingGridItems](https://herminiotorres.github.io/cssgrid/09-PlacingGridItems/finish.html)
