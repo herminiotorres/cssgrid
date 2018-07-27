@@ -15,6 +15,24 @@ $ npm install
 $ npm start
 ```
 
+## List of Resources
+* layout.land
+  * [layout.land - youtube](https://www.layout.land/)
+  * [jensimmons - labs](http://labs.jensimmons.com/)
+* css-tricks
+  * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  * [Does CSS Grid Replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
+* smashingmagazine
+  * [Using CSS Grid: Supporting Browsers Without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/)
+  * [The New Layout Standard For The Web: CSS Grid, Flexbox And Box Alignment](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-layout-standard/)
+  * [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
+  * [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
+  * [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)
+  * [The CSS Grid Challenge: Build A Template, Win Some Smashing Prizes!](https://www.smashingmagazine.com/2017/09/the-css-grid-challenge-join-in/)
+  * [Naming Things In CSS Grid Layout](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)
+  * [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
+  * [Art Directing For The Web With CSS Grid Template Areas](https://www.smashingmagazine.com/2018/04/art-directing-web-css-grid/)
+
 
 ## List of Exercises
 
