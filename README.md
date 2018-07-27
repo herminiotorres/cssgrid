@@ -27,3 +27,4 @@ $ npm start
 * [07-CSSGridrepeatfunction](https://herminiotorres.github.io/cssgrid/07-CSSGridrepeatfunction/finish.html)
 * [08-SizingGridItems](https://herminiotorres.github.io/cssgrid/08-SizingGridItems/finish.html)
 * [09-PlacingGridItems](https://herminiotorres.github.io/cssgrid/09-PlacingGridItems/finish.html)
+* [10-SpanningandPlacingCardio](https://herminiotorres.github.io/cssgrid/10-SpanningandPlacingCardio/finish.html)
